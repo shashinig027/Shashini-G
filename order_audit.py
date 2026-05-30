@@ -1,6 +1,6 @@
 # ==============================================================================
 # PROJECT TITLE: E-Commerce Automated Order Audit & Revenue Verification
-# AUTHOR: [Your Name]
+# AUTHOR: Shashini
 # 
 # SCENARIO / QUESTION:
 # An e-commerce system suffered a database hiccup, causing some order records 
